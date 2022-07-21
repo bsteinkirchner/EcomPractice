@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "brand": "",
+        "name" : "shirt",
+        "price": 5.99,
+        "imgUrl": "",
+        "available": true
+    },
+    {
+        "id": 2,
+        "brand": "",
+        "name" : "shirt",
+        "price": 5.99,
+        "imgUrl": "",
+        "available": true
+    },
+    {
+        "id": 3,
+        "brand": "",
+        "name" : "shirt",
+        "price": 5.99,
+        "imgUrl": "",
+        "available": true
+    },
+    {
+        "id": 4,
+        "brand": "",
+        "name" : "jeans",
+        "price": 5.99,
+        "imgUrl": "",
+        "available": true
+    },
+    {
+        "id": 5,
+        "brand": "",
+        "name" : "pants",
+        "price": 5.99,
+        "imgUrl": "",
+        "available": true
+    },
+    {
+        "id": 6,
+        "brand": "",
+        "name" : "dress",
+        "price": 5.99,
+        "imgUrl": "",
+        "available": true
+    },
+    {
+        "id": 7,
+        "brand": "",
+        "name" : "bra",
+        "price": 5.99,
+        "imgUrl": "",
+        "available": true
+    }
+]
